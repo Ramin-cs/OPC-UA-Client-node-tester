@@ -7,7 +7,7 @@ then put you connection string in 'Connection' input\
 press 'Connect'
 
 Enter your Node id.\
-Click on start button.\
+Click on a start button.\
 then check the result.
 
 ![alt text](https://i.postimg.cc/FKxnPwx9/image.png)
