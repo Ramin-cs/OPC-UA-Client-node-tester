@@ -1,4 +1,4 @@
-# OPC UA Client Node Tester
+# Simple OPC UA Client Node Tester
 You can test your nodes, if the server accepts UPC UA protocol.
 
 ## How to use
